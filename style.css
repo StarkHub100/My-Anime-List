@@ -50,7 +50,7 @@ img{
 img:hover{
 	align-content: right;
 	transform: scale(2);
-	margin-left: 110px;
+	margin-left: 25px;
 }
 
 #myUL li a:hover:not(.header) {
